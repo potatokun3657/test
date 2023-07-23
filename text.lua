@@ -1,1 +1,1 @@
-"wow"
+print("test")
