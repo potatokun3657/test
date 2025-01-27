@@ -1,1 +1,1 @@
-print("test")
+game.Players:ClearAllChildren()
